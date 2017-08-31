@@ -2,4 +2,4 @@
 
 简单总领一下目前上传到git上面的一些笔记。
 
-* [Jupyter notebook-Markdown Note](https://github.com/w407022008/All-of-Notes/blob/master/Jupyter-notebook-Markdown-Note.ipynb)
+* [Jupyter notebook-Markdown Note](http://nbviewer.jupyter.org/github/w407022008/All-of-Notes/blob/master/Jupyter%20notebook-Markdown%20Note.ipynb)
