@@ -1,0 +1,10 @@
+*.bak
+.ipynb_checkpoints
+__pycache__
+*.pyc
+*.aux
+*.out
+*.tex
+*.toc
+book_files
+tmp
