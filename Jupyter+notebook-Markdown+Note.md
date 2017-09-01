@@ -86,6 +86,7 @@
 <font face="黑体" color=#A52A2A size=4 >
             In：
 </font>
+
 ```
 # 一级标题
 ## 二级标题
@@ -98,12 +99,13 @@
 <font face="黑体" color=#A52A2A size=4 >
             Out：
 </font>
+
 ># 一级标题
-## 二级标题
-### 三级标题
-#### 四级标题
-##### 五级标题
-###### 六级标题
+>## 二级标题
+>### 三级标题
+>#### 四级标题
+>##### 五级标题
+>###### 六级标题
 
 
 ## 2.文本样式
@@ -183,28 +185,28 @@
 </font>
 
 >**无序列表样式1**
-- 无序列表项目
-- 无序列表项目
-- 无序列表项目
-
+>- 无序列表项目
+>- 无序列表项目
+>- 无序列表项目
+>
 >**无序列表样式2**
-* 无序列表项目
-* 无序列表项目
-* 无序列表项目
-
+>* 无序列表项目
+>* 无序列表项目
+>* 无序列表项目
+>
 >**有序列表样式**
-1.  有序列表项目
-2.  有序列表项目
-3.  有序列表项目
-2222.  有序列表中即使你写的序号顺序是乱的，只要第一个列表前的数字是1，实际显示时后面的列表都会自动排序
-
+>1.  有序列表项目
+>2.  有序列表项目
+>3.  有序列表项目
+>2222.  有序列表中即使你写的序号顺序是乱的，只要第一个列表前的数字是1，实际显示时后面的列表都会自动排序
+>
 >**嵌套列表样式**
-- 外层列表项目
- + 内层列表项目
-   - 再一层列表项目
- + 内层列表项目
- + 内层列表项目
-- 外层列表项目
+>- 外层列表项目
+> + 内层列表项目
+>   - 再一层列表项目
+> + 内层列表项目
+> + 内层列表项目
+>- 外层列表项目
 
 ---
 ### ·引用
@@ -243,14 +245,17 @@
 ### ·代码高亮
 ***
 ** ·行内式 **
+
 <font face="黑体" color=#A52A2A size=4 >
             In：
 </font>
+
 ```C语言里的函数 `scanf()` 怎么使用？```
 
 <font face="黑体" color=#A52A2A size=4 >
             Out：
 </font>
+
 C语言里的函数 `scanf()` 怎么使用？
 
 ***
@@ -261,9 +266,11 @@ C语言里的函数 `scanf()` 怎么使用？
 
 ***
 如：
+
 <font face="黑体" color=#A52A2A size=4 >
             In：
 </font>
+
 >\``` python
 import numpy as np
 \```
@@ -271,6 +278,7 @@ import numpy as np
 <font face="黑体" color=#A52A2A size=4 >
             Out：
 </font>
+
 ```python
 import numpy as np
 ```
@@ -303,15 +311,16 @@ import numpy as np
 ### ·超链接
 ___
 **文字超链接：**
+
 <font face="黑体" color=#A52A2A size=4 >
             In：
 </font>
+
 ```markdown
 1.行内式：[我的git主页](https://w407022008.github.io/sique.github.io/)
 2.参考式：[usl]:https://w407022008.github.io/sique.github.io/
 [我的git主页][usl]
 ```
-
 ___
 <font face="黑体" color=#A52A2A size=4 >
             Out：
@@ -325,10 +334,12 @@ ___
 
 ___
 **注脚超链接：**  其实也就是采用了参考式
+
 <font face="黑体" color=#A52A2A size=4 >
             In：
 </font>
-```
+
+```Markdown
 使用 Markdown[^1]可以效率的书写文档, 直接转换成 HTML, 你可以使用 Leanote[^Le] 编辑器进行书写。
 
 [^1]: Markdown是一种纯文本标记语言
@@ -348,9 +359,11 @@ ___
 
 ___
 ** 自动链接、邮箱**
+
 <font face="黑体" color=#A52A2A size=4 >
             In：
 </font>
+
 ```
 <https://w407022008.github.io/sique.github.io/>
 <w407022008@gmail.com>
@@ -366,9 +379,11 @@ ___
 
 ___
 **图片引入：**
+
 <font face="黑体" color=#A52A2A size=4 >
             In：
 </font>
+
 ```
 1.行内式：
 ![图片的名字，不会显示](https://s-media-cache-ak0.pinimg.com/originals/3c/d5/67/3cd5679f54dc60811383649f9f6ea37d.png)
@@ -409,31 +424,47 @@ ___
 
 
 * **分式：frac{}{}**
+
     **In**: `$P(A\mid B) = \frac{P(B\mid A)P(A)}{P(B)}$`
-    **Out**:$$P(A\mid B) = \frac{P(B\mid A)P(A)}{P(B)}$$
+
+    **Out**:$P(A\mid B) = \frac{P(B\mid A)P(A)}{P(B)}$
 * **开方：sqrt{}**:
+
     **In**: `$\sqrt{2\pi}$`
-    **Out**: $$\sqrt{2\pi}$$
+
+    **Out**: $\sqrt{2\pi}$
 * **次方：{}^{}**
+
     **In**: `$e^{2x}\div e^{2}x$`
-    **Out**: $$e^{2x}\div e^{2}x$$
+
+    **Out**: $e^{2x}\div e^{2}x$
 
 * **微分量：\dot{}**
+
     **In**: `$\dot x, \ddot x, \dddot x$`
-    **Out**: $$\dot x, \ddot x, \dddot x$$
+
+    **Out**: $\dot x, \ddot x, \dddot x$
 * **矢量：\vec{};\overrightarrow{}**
+
     **In**: `$\vec{x}, \overrightarrow{xy}$`
-    **Out**: $$\vec{x}, \overrightarrow{xy}$$
+
+    **Out**: $\vec{x}, \overrightarrow{xy}$
 * **矩阵：\matrix{}**
+
     **In**: `$\left\lgroup \matrix{a & b & 1 \cr c & d & 2 \cr 3} \right\rgroup$`
-    **Out**: $$\left\lgroup \matrix{a & b & 1 \cr c & d & 2 \cr 3} \right\rgroup$$
+
+    **Out**: $\left\lgroup \matrix{a & b & 1 \cr c & d & 2 \cr 3} \right\rgroup$
 * **积分：\int_{}^{} **
+
     **In**: `$\int_0^1 f(x)dx - \int^1_0 g(x)dx$`
-    **Out**：$$\int_0^1 f(x)dx - \int^1_0 g(x)dx$$
+
+    **Out**：$\int_0^1 f(x)dx - \int^1_0 g(x)dx$
 
 * **求和：\sum_{}^{} **
+
     **In**: `$\sum\nolimits_{i=1}^{n} i^2 = \sum\limits_{i=1}^{n} i^2$`
-    **Out**: $$\sum\nolimits_{i=1}^{n} i^2 = \sum\limits_{i=1}^{n} i^2$$
+
+    **Out**: $\sum\nolimits_{i=1}^{n} i^2 = \sum\limits_{i=1}^{n} i^2$
 
 <font face='仿宋' color=gray size=2>
 更多内容查看于
