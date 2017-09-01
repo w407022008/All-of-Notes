@@ -8,6 +8,6 @@
 
 ---
 ## 磨刀石小积累~
-* [Jupyter notebook-Markdown Note](http://nbviewer.jupyter.org/github/w407022008/All-of-Notes/blob/master/Jupyter%20notebook-Markdown%20Note.ipynb)
+* [Jupyter notebook-Markdown Note](http://nbviewer.jupyter.org/github/w407022008/All-of-Notes/blob/master/some-tips/Jupyter%20notebook-Markdown%20Note.ipynb)
 
 ---
