@@ -9,5 +9,5 @@
 ---
 ## [磨刀石小积累~](http://nbviewer.jupyter.org/github/w407022008/All-of-Notes/blob/master/some-tips)
 * [Jupyter notebook-Markdown Note](http://nbviewer.jupyter.org/github/w407022008/All-of-Notes/blob/master/some-tips/Jupyter%20notebook-Markdown%20Note.ipynb)
-* [删除git上的文件，但不删除本地.md](http://nbviewer.jupyter.org/github/w407022008/All-of-Notes/blob/master/some-tips/删除git上的文件，但不删除本地.md)
+* [删除git上的文件，但不删除本地.md](./some-tips/删除git上的文件，但不删除本地.md)
 ---
