@@ -22,6 +22,7 @@
 * [Unscented Kalman Filter](http://nbviewer.jupyter.org/github/w407022008/All-of-Notes/blob/master/Kalman-Bayesian-Filter-Notes/10%20Unscented-Kalman-Filter-Notes---Multi-position-Sensor-Fusion.ipynb)
 * [Particles Filters](http://nbviewer.jupyter.org/github/w407022008/All-of-Notes/blob/master/Kalman-Bayesian-Filter-Notes/12%20Particle-Filters.ipynb)
 * [Smoothing](http://nbviewer.jupyter.org/github/w407022008/All-of-Notes/blob/master/Kalman-Bayesian-Filter-Notes/13%20Smoothing--UKF_SensorFusion--Notes.ipynb)
+* [Adaptive Filter](http://nbviewer.jupyter.org/github/w407022008/All-of-Notes/blob/master/Kalman-Bayesian-Filter-Notes/14%20Adaptive-Filtering.ipynb)
 * 
 
 ---
