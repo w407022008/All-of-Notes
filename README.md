@@ -26,23 +26,23 @@
 *
 
 ---
-## [芯片、传感器模块积累]()
-* ###[Arduino]()
-  * [ProtoThread库]()
-  * [Timer库]()
+## [芯片、传感器模块积累](https://github.com/w407022008/All-of-Notes/tree/master/some-learning-notes-for-chips&sensors)
+* [Arduino](https://github.com/w407022008/All-of-Notes/tree/master/some-learning-notes-for-chips&sensors/Arduino-studyNotes)
+  * [ProtoThread库](http://nbviewer.jupyter.org/github/w407022008/All-of-Notes/blob/master/some-learning-notes-for-chips&sensors/Arduino-studyNotes/ProtoThreads库.ipynb)
+  * [Timer库](http://nbviewer.jupyter.org/github/w407022008/All-of-Notes/blob/master/some-learning-notes-for-chips&sensors/Arduino-studyNotes/Timer库.ipynb)
   *
-* [蓝牙模块]()
-  * [蓝牙HC-05]()
-    * [蓝牙模块作为通信串口下载程序]()
+* [蓝牙模块](https://github.com/w407022008/All-of-Notes/tree/master/some-learning-notes-for-chips&sensors/Bluetooth)
+  * [蓝牙HC-05](https://github.com/w407022008/All-of-Notes/tree/master/some-learning-notes-for-chips&sensors/Bluetooth/BT-HC-05)
+    * [蓝牙模块作为通信串口下载程序](http://nbviewer.jupyter.org/github/w407022008/All-of-Notes/tree/master/some-learning-notes-for-chips&sensors/Bluetooth/BT-HC-05/HC-05蓝牙模块通信下载.ipynb)
   *
-* [惯性测量单元IMU]()
-  * [MPU6050]()
-    * [四元数位姿解算方法概述]()
-    * [MPU6050位姿解算算法简述]()
+* [惯性测量单元IMU](https://github.com/w407022008/All-of-Notes/tree/master/some-learning-notes-for-chips&sensors/IMU)
+  * [MPU6050](https://github.com/w407022008/All-of-Notes/tree/master/some-learning-notes-for-chips&sensors/IMU/MPU6050)
+    * [四元数位姿解算方法概述](http://nbviewer.jupyter.org/github/w407022008/All-of-Notes/tree/master/some-learning-notes-for-chips&sensors/IMU/MPU6050/四元数位姿解算.ipynb)
+    * [MPU6050位姿解算算法简述](http://nbviewer.jupyter.org/github/w407022008/All-of-Notes/tree/master/some-learning-notes-for-chips&sensors/IMU/MPU6050/MPU6050位姿解算简述.ipynb)
   *
-* [声纳]()
-  * [超声波HC-SR04]()
-    * [超声波实时测距]()
+* [声纳](https://github.com/w407022008/All-of-Notes/tree/master/some-learning-notes-for-chips&sensors/sonar)
+  * [超声波HC-SR04](https://github.com/w407022008/All-of-Notes/tree/master/some-learning-notes-for-chips&sensors/sonar/sonar-HC-SR04)
+    * [超声波实时测距](http://nbviewer.jupyter.org/github/w407022008/All-of-Notes/tree/master/some-learning-notes-for-chips&sensors/sonar/sonar-HC-SR-04/HC-SR04.ipynb)
 *
 
 ---
