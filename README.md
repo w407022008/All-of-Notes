@@ -23,6 +23,26 @@
 * [Particles Filters](http://nbviewer.jupyter.org/github/w407022008/All-of-Notes/blob/master/Kalman-Bayesian-Filter-Notes/12%20Particle-Filters.ipynb)
 * [Smoothing](http://nbviewer.jupyter.org/github/w407022008/All-of-Notes/blob/master/Kalman-Bayesian-Filter-Notes/13%20Smoothing--UKF_SensorFusion--Notes.ipynb)
 * [Adaptive Filter](http://nbviewer.jupyter.org/github/w407022008/All-of-Notes/blob/master/Kalman-Bayesian-Filter-Notes/14%20Adaptive-Filtering.ipynb)
-* 
+*
+
+---
+## [芯片、传感器模块积累]()
+* ###[Arduino]()
+  * [ProtoThread库]()
+  * [Timer库]()
+  *
+* [蓝牙模块]()
+  * [蓝牙HC-05]()
+    * [蓝牙模块作为通信串口下载程序]()
+  *
+* [惯性测量单元IMU]()
+  * [MPU6050]()
+    * [四元数位姿解算方法概述]()
+    * [MPU6050位姿解算算法简述]()
+  *
+* [声纳]()
+  * [超声波HC-SR04]()
+    * [超声波实时测距]()
+*
 
 ---
