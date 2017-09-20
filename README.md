@@ -46,3 +46,5 @@
 *
 
 ---
+## [串联机器人](https://github.com/w407022008/All-of-Notes/tree/master/%E4%B8%B2%E8%81%94%E6%9C%BA%E5%99%A8%E4%BA%BA)
+  * [串联机器人运动解算](http://nbviewer.jupyter.org/github/w407022008/All-of-Notes/blob/master/%E4%B8%B2%E8%81%94%E6%9C%BA%E5%99%A8%E4%BA%BA%E8%BF%90%E5%8A%A8%E8%A7%A3%E7%AE%97/%E4%B8%B2%E8%81%94%E6%9C%BA%E5%99%A8%E4%BA%BA%E8%BF%90%E5%8A%A8%E8%A7%A3%E7%AE%97.ipynb)
