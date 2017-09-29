@@ -16,6 +16,7 @@
 ---
 
 ## [好一个KalmanFilter](https://github.com/w407022008/All-of-Notes/tree/master/Kalman-Bayesian-Filter-Notes)
+* [先看一个KalmanFilter的介绍](https://github.com/w407022008/notes/blob/master/essays/Kalman%E6%BB%A4%E6%B3%A2%E5%99%A8%E4%BB%8E%E5%8E%9F%E7%90%86%E5%88%B0%E5%AE%9E%E7%8E%B0.md),感谢[xiahouzuoxin](https://github.com/xiahouzuoxin)
 * [GHKFilter](http://nbviewer.jupyter.org/github/w407022008/All-of-Notes/blob/master/Kalman-Bayesian-Filter-Notes/01%20GHK-filter--Notes.ipynb)
 * [Discrete Bayes Filter](http://nbviewer.jupyter.org/github/w407022008/All-of-Notes/blob/master/Kalman-Bayesian-Filter-Notes/02%20Discrete-Bayes%20Filter-Notes.ipynb)
 * [Kalman Filter Algorithm](http://nbviewer.jupyter.org/github/w407022008/All-of-Notes/blob/master/Kalman-Bayesian-Filter-Notes/06%20Kalman%20Filter%20Algorithm.ipynb)
