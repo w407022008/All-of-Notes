@@ -55,5 +55,6 @@
 ---
 ## [串联机器人](https://github.com/w407022008/All-of-Notes/tree/master/%E4%B8%B2%E8%81%94%E6%9C%BA%E5%99%A8%E4%BA%BA)
   * [串联机器人运动解算](http://nbviewer.jupyter.org/github/w407022008/All-of-Notes/blob/master/%E4%B8%B2%E8%81%94%E6%9C%BA%E5%99%A8%E4%BA%BA%E8%BF%90%E5%8A%A8%E8%A7%A3%E7%AE%97/%E4%B8%B2%E8%81%94%E6%9C%BA%E5%99%A8%E4%BA%BA%E8%BF%90%E5%8A%A8%E8%A7%A3%E7%AE%97.ipynb)
+  * [humanoid robot drafts](https://drive.google.com/open?id=0Bzmx-vgdNPujVmRiWGh3T3NHbDA)
   * [对四元数的进阶学习](http://nbviewer.jupyter.org/github/w407022008/All-of-Notes/blob/master/%E4%B8%B2%E8%81%94%E6%9C%BA%E5%99%A8%E4%BA%BA/%E5%AF%B9%E5%9B%9B%E5%85%83%E6%95%B0%E7%9A%84%E8%BF%9B%E9%98%B6%E5%AD%A6%E4%B9%A0.ipynb)
   * [四元数的一点小笔记](https://drive.google.com/open?id=0Bzmx-vgdNPujMmJNS1g5QUs4eGs)
