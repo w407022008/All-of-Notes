@@ -14,6 +14,11 @@
 *
 
 ---
+## [控制系统知识]()
+* [线性时域系统分析的小笔记](https://drive.google.com/open?id=1BcxagWBShVs-YoSR-lwztXO8UBwGK0iN)
+* [系统辨识与自适应控制小笔记](https://drive.google.com/open?id=1sCwRN64LIVAx7aaOgWdnKoj9JaneW8GR)
+
+---
 
 ## [好一个KalmanFilter](https://github.com/w407022008/All-of-Notes/tree/master/Kalman-Bayesian-Filter-Notes)
 * [先看一个KalmanFilter的介绍](https://github.com/w407022008/notes/blob/master/essays/Kalman%E6%BB%A4%E6%B3%A2%E5%99%A8%E4%BB%8E%E5%8E%9F%E7%90%86%E5%88%B0%E5%AE%9E%E7%8E%B0.md),感谢[@xiahouzuoxin](https://github.com/xiahouzuoxin)
@@ -25,6 +30,7 @@
 * [Smoothing](http://nbviewer.jupyter.org/github/w407022008/All-of-Notes/blob/master/Kalman-Bayesian-Filter-Notes/13%20Smoothing--UKF_SensorFusion--Notes.ipynb)
 * [Adaptive Filter](http://nbviewer.jupyter.org/github/w407022008/All-of-Notes/blob/master/Kalman-Bayesian-Filter-Notes/14%20Adaptive-Filtering.ipynb)
 * 一个优秀的主页，[kalman完全内容](http://www.cs.unc.edu/~welch/kalman/)
+* [我的一点小笔记](https://drive.google.com/open?id=0Bzmx-vgdNPujczI0WnBmTGhGSVk)
 
 ---
 ## [芯片、传感器模块积累](https://github.com/w407022008/All-of-Notes/tree/master/some-learning-notes-for-chips&sensors)
@@ -50,3 +56,4 @@
 ## [串联机器人](https://github.com/w407022008/All-of-Notes/tree/master/%E4%B8%B2%E8%81%94%E6%9C%BA%E5%99%A8%E4%BA%BA)
   * [串联机器人运动解算](http://nbviewer.jupyter.org/github/w407022008/All-of-Notes/blob/master/%E4%B8%B2%E8%81%94%E6%9C%BA%E5%99%A8%E4%BA%BA%E8%BF%90%E5%8A%A8%E8%A7%A3%E7%AE%97/%E4%B8%B2%E8%81%94%E6%9C%BA%E5%99%A8%E4%BA%BA%E8%BF%90%E5%8A%A8%E8%A7%A3%E7%AE%97.ipynb)
   * [对四元数的进阶学习](http://nbviewer.jupyter.org/github/w407022008/All-of-Notes/blob/master/%E4%B8%B2%E8%81%94%E6%9C%BA%E5%99%A8%E4%BA%BA/%E5%AF%B9%E5%9B%9B%E5%85%83%E6%95%B0%E7%9A%84%E8%BF%9B%E9%98%B6%E5%AD%A6%E4%B9%A0.ipynb)
+  * [四元数的一点小笔记](https://drive.google.com/open?id=0Bzmx-vgdNPujMmJNS1g5QUs4eGs)
