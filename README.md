@@ -46,7 +46,7 @@
   *
 * [Sonar & Radar & Lidar](https://github.com/w407022008/All-of-Notes/tree/master/some-learning-notes-for-chips&sensors/sonar)
   * [Ultrasonic HC-SR04](https://github.com/w407022008/All-of-Notes/tree/master/some-learning-notes-for-chips&sensors/sonar/sonar-HC-SR04)
-    * [Ultrasonic real-time ranging](http://nbviewer.jupyter.org/github/w407022008/All-of-Notes/tree/master/some-learning-notes-for-chips&sensors/sonar/sonar-HC-SR-04/HC-SR04.ipynb)
+    * [Ultrasonic real-time ranging](http://nbviewer.jupyter.org/github/w407022008/All-of-Notes/blob/master/some-learning-notes-for-chips%26sensors/sonar/sonar-HC-SR04/HC-SR04.ipynb)
 *
 
 ---
