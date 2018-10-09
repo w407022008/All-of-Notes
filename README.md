@@ -53,7 +53,7 @@
 ## [Robotics](https://github.com/w407022008/All-of-Notes/tree/master/Robotics)
   * [Robotic Modelization](http://nbviewer.jupyter.org/github/w407022008/All-of-Notes/blob/master/Robotics/Robotic%20Modelization.ipynb)
   * [humanoid robot drafts](https://drive.google.com/open?id=0Bzmx-vgdNPujVmRiWGh3T3NHbDA)
-  * [Spatial transformation](http://nbviewer.jupyter.org/github/w407022008/All-of-Notes/blob/master/Robotics/The%20spatial%20transformation.ipynb)
+  * [Spatial rotation](http://nbviewer.jupyter.org/github/w407022008/All-of-Notes/blob/master/Robotics/The%20spatial%20rotation.ipynb)
   * [The drafts about spatial transformation](https://drive.google.com/open?id=0Bzmx-vgdNPujMmJNS1g5QUs4eGs)
 
 ---
