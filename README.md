@@ -30,6 +30,14 @@
 * [The drafts](https://drive.google.com/open?id=0Bzmx-vgdNPujczI0WnBmTGhGSVk)
 
 ---
+## [Robotics](https://github.com/w407022008/All-of-Notes/tree/master/Robotics)
+  * [Spatial rotation](http://nbviewer.jupyter.org/github/w407022008/All-of-Notes/blob/master/Robotics/The%20spatial%20rotation.ipynb)
+  * [Spatial rotation (English version)](http://nbviewer.jupyter.org/github/w407022008/All-of-Notes/blob/master/Robotics/The%20spatial%20rotation_English.ipynb)
+  * [Robotic Modelization](http://nbviewer.jupyter.org/github/w407022008/All-of-Notes/blob/master/Robotics/Robotic%20Modelization.ipynb)
+  * [humanoid robot drafts](https://drive.google.com/open?id=0Bzmx-vgdNPujVmRiWGh3T3NHbDA)
+  * [The drafts about spatial transformation](https://drive.google.com/open?id=0Bzmx-vgdNPujMmJNS1g5QUs4eGs)
+
+---
 ## [Chip and Sensor Module](https://github.com/w407022008/All-of-Notes/tree/master/some-learning-notes-for-chips&sensors)
 * [Arduino](https://github.com/w407022008/All-of-Notes/tree/master/some-learning-notes-for-chips&sensors/Arduino-studyNotes)
   * [ProtoThread库](http://nbviewer.jupyter.org/github/w407022008/All-of-Notes/blob/master/some-learning-notes-for-chips&sensors/Arduino-studyNotes/ProtoThreads库.ipynb)
@@ -48,13 +56,6 @@
   * [Ultrasonic HC-SR04](https://github.com/w407022008/All-of-Notes/tree/master/some-learning-notes-for-chips&sensors/sonar/sonar-HC-SR04)
     * [Ultrasonic real-time ranging](http://nbviewer.jupyter.org/github/w407022008/All-of-Notes/blob/master/some-learning-notes-for-chips%26sensors/sonar/sonar-HC-SR04/HC-SR04.ipynb)
 *
-
----
-## [Robotics](https://github.com/w407022008/All-of-Notes/tree/master/Robotics)
-  * [Robotic Modelization](http://nbviewer.jupyter.org/github/w407022008/All-of-Notes/blob/master/Robotics/Robotic%20Modelization.ipynb)
-  * [humanoid robot drafts](https://drive.google.com/open?id=0Bzmx-vgdNPujVmRiWGh3T3NHbDA)
-  * [Spatial rotation](http://nbviewer.jupyter.org/github/w407022008/All-of-Notes/blob/master/Robotics/The%20spatial%20rotation.ipynb)
-  * [The drafts about spatial transformation](https://drive.google.com/open?id=0Bzmx-vgdNPujMmJNS1g5QUs4eGs)
 
 ---
 ## [Git-Markdown-others](https://github.com/w407022008/All-of-Notes/blob/master/some-tips)
