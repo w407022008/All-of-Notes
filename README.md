@@ -65,6 +65,9 @@
 * [SVM](https://github.com/w407022008/All-of-Notes/blob/master/mathematical/SVM.md)
 
 ---
+## [Mechanics](https://github.com/w407022008/All-of-Notes/tree/master/mathematical)
+* [Finite element method(FEM)](https://drive.google.com/open?id=1HaARyxu4LLue4KFlnOKEIb9zZ5OoqwrC)
+---
 ## [Git-Markdown-others](https://github.com/w407022008/All-of-Notes/blob/master/some-tips)
 * [Jupyter notebook-Markdown Note](http://nbviewer.jupyter.org/github/w407022008/All-of-Notes/blob/master/some-tips/Jupyter%20notebook-Markdown%20Note.ipynb)
 * [删除git上的文件，但不删除本地.md](https://github.com/w407022008/All-of-Notes/blob/master/some-tips/%E5%88%A0%E9%99%A4git%E4%B8%8A%E7%9A%84%E6%96%87%E4%BB%B6%EF%BC%8C%E4%BD%86%E4%B8%8D%E5%88%A0%E9%99%A4%E6%9C%AC%E5%9C%B0.md)
