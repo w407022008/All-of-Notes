@@ -61,8 +61,8 @@
 
 ---
 ## [Mathematics](https://github.com/w407022008/All-of-Notes/tree/master/mathematical)
-* [PEC in topological optimization](https://github.com/w407022008/All-of-Notes/blob/master/mathematical/PEC%20in%20topological%20optimization.pdf)
-* [SVM](https://github.com/w407022008/All-of-Notes/blob/master/mathematical/SVM.md)
+* [PEC in topological optimization](https://w407022008.github.io/All-of-Notes/mathematical/PEC%20in%20topological%20optimization.pdf)
+* [SVM](https://w407022008.github.io/All-of-Notes/mathematical/SVM)
 
 ---
 ## [Mechanics](https://github.com/w407022008/All-of-Notes/tree/master/mathematical)
