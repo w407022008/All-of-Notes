@@ -8,7 +8,7 @@
 ---
 # Collection
 1. [Kalman and Bayesian Filters in Python](http://nbviewer.jupyter.org/github/w407022008/Kalman-and-Bayesian-Filters-in-Python/blob/master/table_of_contents.ipynb)
-2. [Notes on Differential Geometry and Lie Groups](http://www.seas.upenn.edu/~jean/diffgeom.pdf)
+2. [Notes on Differential Geometry and Lie Groups](https://www.seas.upenn.edu/~jean/diffgeom-spr-I.pdf)
 3. [Algebra, Topology, Differential Calculus, and Optimization Theory For Computer Science and Engineering](http://www.cis.upenn.edu/~jean/math-basics.pdf)
 
 ---
@@ -61,8 +61,8 @@
 
 ---
 ## [Mathematics](https://github.com/w407022008/All-of-Notes/tree/master/mathematical)
-* [PEC in topological optimization](https://w407022008.github.io/All-of-Notes/mathematical/PEC%20in%20topological%20optimization.pdf)
-* [SVM](https://w407022008.github.io/All-of-Notes/mathematical/SVM)
+* [Polynomial Chaos Equation(PCE) in topological optimization](https://w407022008.github.io/All-of-Notes/mathematical/PEC%20in%20topological%20optimization.pdf)
+* [Support Vector Machine (SVM)](https://w407022008.github.io/All-of-Notes/mathematical/SVM)
 
 ---
 ## [Mechanics](https://github.com/w407022008/All-of-Notes/tree/master/mathematical)
