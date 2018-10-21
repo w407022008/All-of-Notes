@@ -21,14 +21,14 @@
 * [Linear quadratic optimal control](http://nbviewer.jupyter.org/github/w407022008/All-of-Notes/blob/master/System_Science_and_Control_Engineering/Linear%20quadratic%20optimal%20control.ipynb)
 * [Bellman dynamic programming, discrete system optimal control, reinforce learning](http://nbviewer.jupyter.org/github/w407022008/All-of-Notes/blob/master/System_Science_and_Control_Engineering/Bellman%20dynamic%20programming%2C%20discrete%20system%20optimal%20control%2C%20reinforce%20learning.ipynb)
 * [Controller design and Observer design](http://nbviewer.jupyter.org/github/w407022008/All-of-Notes/blob/master/System_Science_and_Control_Engineering/Controller%20design%20and%20Observer%20design.ipynb)
-* [Drafts about Linear system(chinese)](https://drive.google.com/open?id=1BcxagWBShVs-YoSR-lwztXO8UBwGK0iN)
-* [Drafts about System Identification and Adaptive Control(chinese)](https://drive.google.com/open?id=1sCwRN64LIVAx7aaOgWdnKoj9JaneW8GR)
+* [Drafts about Linear system(in chinese)](https://drive.google.com/open?id=1BcxagWBShVs-YoSR-lwztXO8UBwGK0iN)
+* [Drafts about System Identification and Adaptive Control(in chinese)](https://drive.google.com/open?id=1sCwRN64LIVAx7aaOgWdnKoj9JaneW8GR)
 * 
 
 ---
 
 ## [Estimation & KalmanFilter](https://github.com/w407022008/All-of-Notes/tree/master/Kalman-Bayesian-Filter-Notes)
-* [Introduction to KalmanFilter(chinese)](https://github.com/w407022008/notes/blob/master/essays/Kalman%E6%BB%A4%E6%B3%A2%E5%99%A8%E4%BB%8E%E5%8E%9F%E7%90%86%E5%88%B0%E5%AE%9E%E7%8E%B0.md)[@xiahouzuoxin](https://github.com/xiahouzuoxin)
+* [Introduction to KalmanFilter(in chinese)](https://github.com/w407022008/notes/blob/master/essays/Kalman%E6%BB%A4%E6%B3%A2%E5%99%A8%E4%BB%8E%E5%8E%9F%E7%90%86%E5%88%B0%E5%AE%9E%E7%8E%B0.md)[@xiahouzuoxin](https://github.com/xiahouzuoxin)
 * [GHKFilter](http://nbviewer.jupyter.org/github/w407022008/All-of-Notes/blob/master/Kalman-Bayesian-Filter-Notes/01%20GHKFilter.ipynb)
 * [Discrete Bayes Filter](http://nbviewer.jupyter.org/github/w407022008/All-of-Notes/blob/master/Kalman-Bayesian-Filter-Notes/02%20Discrete-Bayes%20Filter.ipynb)
 * [Kalman Filter Algorithm](http://nbviewer.jupyter.org/github/w407022008/All-of-Notes/blob/master/Kalman-Bayesian-Filter-Notes/03%20Kalman%20Filter%20Algorithm.ipynb)
@@ -37,7 +37,7 @@
 * [Smoothing](http://nbviewer.jupyter.org/github/w407022008/All-of-Notes/blob/master/Kalman-Bayesian-Filter-Notes/06%20Smoothing--UKF_SensorFusion--Notes.ipynb)
 * [Adaptive Filter](http://nbviewer.jupyter.org/github/w407022008/All-of-Notes/blob/master/Kalman-Bayesian-Filter-Notes/07%20Adaptive-Filtering.ipynb)
 * [The Kalman Filter @UNC](http://www.cs.unc.edu/~welch/kalman/)
-* [The drafts(chinese)](https://drive.google.com/open?id=0Bzmx-vgdNPujczI0WnBmTGhGSVk)
+* [The drafts(in chinese)](https://drive.google.com/open?id=0Bzmx-vgdNPujczI0WnBmTGhGSVk)
 
 ---
 ## [Robotics](https://github.com/w407022008/All-of-Notes/tree/master/Robotics)
@@ -46,7 +46,7 @@
   * [Robotic Modelization](http://nbviewer.jupyter.org/github/w407022008/All-of-Notes/blob/master/Robotics/Robotic%20Modelization_English.ipynb)
   * [Robotic Modelization（中文版）](http://nbviewer.jupyter.org/github/w407022008/All-of-Notes/blob/master/Robotics/Robotic%20Modelization.ipynb)
   * [humanoid robot drafts](https://drive.google.com/open?id=0Bzmx-vgdNPujVmRiWGh3T3NHbDA)
-  * [The drafts about spatial transformation(chinese)](https://drive.google.com/open?id=0Bzmx-vgdNPujMmJNS1g5QUs4eGs)
+  * [The drafts about spatial transformation(in chinese)](https://drive.google.com/open?id=0Bzmx-vgdNPujMmJNS1g5QUs4eGs)
 
 ---
 ## [Chip and Sensor Module](https://github.com/w407022008/All-of-Notes/tree/master/some-learning-notes-for-chips&sensors)
