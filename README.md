@@ -44,10 +44,8 @@ Here are all of my notes in conclusion for Linear&Non-linear Filter. If you want
 
 ---
 ## [Robotics](https://github.com/w407022008/All-of-Notes/tree/master/Robotics)
-  * [Spatial rotation (中文版)](http://nbviewer.jupyter.org/github/w407022008/All-of-Notes/blob/master/Robotics/The%20spatial%20rotation.ipynb)
   * [Spatial rotation](http://nbviewer.jupyter.org/github/w407022008/All-of-Notes/blob/master/Robotics/The%20spatial%20rotation_English.ipynb)
   * [Robotic Modelization](http://nbviewer.jupyter.org/github/w407022008/All-of-Notes/blob/master/Robotics/Robotic%20Modelization_English.ipynb)
-  * [Robotic Modelization（中文版）](http://nbviewer.jupyter.org/github/w407022008/All-of-Notes/blob/master/Robotics/Robotic%20Modelization.ipynb)
   * [humanoid robot drafts](https://drive.google.com/open?id=0Bzmx-vgdNPujVmRiWGh3T3NHbDA)
   * [The drafts about spatial transformation(in chinese)](https://drive.google.com/open?id=0Bzmx-vgdNPujMmJNS1g5QUs4eGs)
 
