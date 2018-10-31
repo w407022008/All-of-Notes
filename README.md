@@ -13,7 +13,7 @@
 
 ---
 ## [System Science and Control Engineering]()
-* [Linear System]()
+* [Linear System](http://nbviewer.jupyter.org/github/w407022008/All-of-Notes/blob/master/System_Science_and_Control_Engineering/%E7%B3%BB%E7%BB%9F%E7%A7%91%E5%AD%A6%E6%80%BB%E4%BD%93%E5%88%86%E7%B1%BB%20Systematic%20science%20classification.ipynb)
   * [Linear System Model](http://nbviewer.jupyter.org/github/w407022008/All-of-Notes/blob/master/System_Science_and_Control_Engineering/Linear%20System%20Model.ipynb)
   * [Solution of State Equation of Linear System](http://nbviewer.jupyter.org/github/w407022008/All-of-Notes/blob/master/System_Science_and_Control_Engineering/Solution%20of%20State%20Equation%20of%20Linear%20System.ipynb)
   * [Controllability, observability, and Canonical form of linear systems](http://nbviewer.jupyter.org/github/w407022008/All-of-Notes/blob/master/System_Science_and_Control_Engineering/Controllability%2C%20observability%2C%20and%20Canonical%20form%20of%20linear%20systems.ipynb)
