@@ -10,6 +10,7 @@
 1. [Kalman and Bayesian Filters in Python](http://nbviewer.jupyter.org/github/w407022008/Kalman-and-Bayesian-Filters-in-Python/blob/master/table_of_contents.ipynb)
 2. [Notes on Differential Geometry and Lie Groups](https://www.seas.upenn.edu/~jean/diffgeom-spr-I.pdf)
 3. [Algebra, Topology, Differential Calculus, and Optimization Theory For Computer Science and Engineering](http://www.cis.upenn.edu/~jean/math-basics.pdf)
+4. [Numerical Optimization second edition](http://www.apmath.spbu.ru/cnsa/pdf/monograf/Numerical_Optimization2006.pdf)
 
 ---
 ## [System Science and Control Engineering]()
