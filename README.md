@@ -25,6 +25,10 @@
   * [Controller design and Observer design](http://nbviewer.jupyter.org/github/w407022008/All-of-Notes/blob/master/System_Science_and_Control_Engineering/Controller%20design%20and%20Observer%20design.ipynb)
   * [Drafts about Linear system(in chinese)](https://drive.google.com/open?id=1BcxagWBShVs-YoSR-lwztXO8UBwGK0iN)
 * [Nonlinear System]()
+  * [Sliding Model Control]() [(Wiki)](https://www.wikiwand.com/en/Sliding_mode_control)
+  * [Lyapunov Redesign]()
+  * [Backstepping]() [(Wiki)](https://www.wikiwand.com/en/Backstepping)
+  * [Passivity-based Control]()
 * [Robust Control]()
   * [Drafts about System Identification and Adaptive Control(in chinese)](https://drive.google.com/open?id=1sCwRN64LIVAx7aaOgWdnKoj9JaneW8GR)
 
